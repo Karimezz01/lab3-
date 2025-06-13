@@ -1,3 +1,4 @@
+//Ready for instructor review.
 const tabs = document.querySelectorAll(".nav-tabs li");
 const loader = document.getElementById("loader");
 const grid = document.getElementById("recipeGrid");
